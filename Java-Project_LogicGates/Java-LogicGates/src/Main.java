@@ -57,7 +57,7 @@ public class Main {
         }
 
     }
-
+    // test commment
     static void twoInputAndGate()
     {
         Scanner readUserInputObject = new Scanner(System.in);
